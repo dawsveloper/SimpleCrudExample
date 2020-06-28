@@ -1,3 +1,7 @@
 {
-  "list" : "generator/list"
+  "list" : "generator/list",
+  "detail" : "",
+  "insert" : "",
+  "update" : "",
+  "delete" : ""
 }
