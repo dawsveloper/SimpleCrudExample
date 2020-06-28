@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCrudApps</string>
+
+    <string name="warning_press_once_to_exit">Press back once again to exit</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7275ed</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757585</color>
+
+    <color name="defaultBackground">#F5F6F7</color>
+    <color name="error">#EE2B7B</color>
+    <color name="success">#76CFA4</color>
+    <color name="pending">#F3B37F</color>
+</resources>
